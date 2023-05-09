@@ -1,0 +1,18 @@
+.card {
+  display: flex;
+  background-color: aliceblue;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+  padding: 15px;
+  width: 550px;
+}
+
+p{
+    display: flex;
+    align-items: center;
+}
+
+.left{
+  display: flex;
+}

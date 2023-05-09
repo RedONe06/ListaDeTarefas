@@ -1,0 +1,10 @@
+.user{
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.5px;
+    gap:7px; 
+}
+
+header{
+    padding: 50px;
+}
